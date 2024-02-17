@@ -1,5 +1,4 @@
-# Dodge the Creeps 2D assets
+# Polaris
 
-Used by the "Your first 2D game" tutorial:
-
-https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
+The game about the coming of age story of a young rising hip hop star in the
+mythical city of East Coast City.
