@@ -7,7 +7,7 @@
   - Coming of age 
   - Somewhat comedic
   - Mildly dystopic, it can get real, but there are times where it gets
-    light-hearted. 
+	light-hearted. 
   - Fictional universe, some real world references as easter eggs
 - City:
   - Based on NYC/DC  - East Coast City
